@@ -24,14 +24,6 @@ switch($textArray[0]){
 }
 
 
-//else if ($text =="1"){
-//     //registration process
-//     $menu ->Registration($textArray);
-// }elseif($text ==2){
-//    // check status
-   
-// }
-
 
 
 ?>
